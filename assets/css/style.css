@@ -151,3 +151,12 @@ body {
     animation-name: fadeInUp;
     -webkit-animation-name: fadeInUp;
 }
+
+
+/* Header */
+.hero-text{
+font-family: 'tinos-bold';
+}
+.hero-text .lead{
+    font-family: 'tinos-regular';
+}
