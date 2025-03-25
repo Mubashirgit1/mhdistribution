@@ -19,11 +19,9 @@
 /* color scheme */
 .color-1{
     background: #03045E;
-    font-family: 'tinos-regular';
 }
 .color-2{
     background: #023E8A;
-    font-family: 'tinos-regular';
 }
 .color-3{
     background: #0077B6;
@@ -43,12 +41,22 @@
 .color-8{
     background: #03045E;
 }
+
+/* fonts */
+.font-b{
+    font-family: 'tinos-bold';
+}
+.font-r{
+    font-family: 'tinos-regular';
+}
+
 body {
     margin: 0;
     padding: 0;
 }
-/* navbar */
 
+
+/* navbar */
 
 .navbar-expand-sm .navbar-brand{
     font-size: 22px;
@@ -153,10 +161,31 @@ body {
 }
 
 
-/* Header */
-.hero-text{
-font-family: 'tinos-bold';
+.carousel-item {
+    
+    flex-wrap: nowrap;
 }
-.hero-text .lead{
-    font-family: 'tinos-regular';
+
+.card {
+    margin: 10px;
+    text-align: center;
+}
+
+.card img {
+    width: 100%; /* Full width */
+    height: 200px; /* Fixed height */
+    object-fit: cover; /* Crops and fills the area */   
+    
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background: rgba(0, 0, 0, 0.1);
+    width: 5%;
+}
+.card-img-bg {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
