@@ -170,6 +170,7 @@ body {
 .card {
     margin: 10px;
     text-align: center;
+    padding:30px
 }
 
 .card img {
@@ -183,6 +184,7 @@ body {
 .carousel-control-next {
     background: rgba(0, 0, 0, 0.1);
     width: 5%;
+    opacity:0.2;
 }
 .card-img-bg {
     height: 200px;
@@ -299,4 +301,7 @@ body {
         }
         .ab-btn{
             font-size: 1rem !important;
+        }
+        .btn-primary{
+            background-color: #0077B6 !important;
         }
