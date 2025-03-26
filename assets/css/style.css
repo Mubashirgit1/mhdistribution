@@ -61,6 +61,7 @@ body {
 .navbar-expand-sm .navbar-brand{
     font-size: 22px;
     font-family: 'tinos-regular';
+    color: white;
 } 
 
 .navbar-nav .nav-link {
