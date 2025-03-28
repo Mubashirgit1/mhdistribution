@@ -1,22 +1,13 @@
 @font-face {
     font-family: 'tinos-regular';
-    src: url('../fonts/Tinos-Regular.ttf');
+    src: url('../fonts/tinos-regular.ttf');
 }
 
 @font-face {
     font-family: 'tinos-bold';
-    src: url('../fonts/Tinos-Bold.ttf');
+    src: url('../fonts/tinos-bold.ttf');
 }
 
-@font-face {
-    font-family: 'tinos-italic';
-    src: url('../fonts/Tinos-Italic.ttf');
-}
-
-@font-face {
-    font-family: 'tinos-bolditalic';
-    src: url('../fonts/Tinos-BoldItalic.ttf');
-}
 
 /* color scheme */
 
