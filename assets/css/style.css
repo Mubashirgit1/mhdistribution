@@ -22,14 +22,17 @@
 
 
 /* fonts */
-.font-b {
+.bold-font {
     font-family: 'tinos-bold';
 }
 
-.font-r {
+.regular-font {
     font-family: 'tinos-regular';
 }
 
+.font-21{
+font-size: 21px;
+}
 body {
     margin: 0;
     padding: 0;
@@ -245,6 +248,10 @@ body {
 .icon-box i {
     font-size: 40px;
     color: white;
+}
+.icon-box img {
+    width: 25px !important;
+    height: 25px !important;
 }
 
 .header {
