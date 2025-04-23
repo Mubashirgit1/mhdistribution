@@ -166,6 +166,10 @@ body {
 
 }
 
+.card-title{
+ font-size: 20px;
+ font-weight: 600;
+}
 .carousel-control-prev,
 .carousel-control-next {
     background: rgba(0, 0, 0, 0.1);
