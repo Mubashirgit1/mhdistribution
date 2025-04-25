@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'tinos-regular';
-    src: url('../fonts/tinos-regular.ttf');
+    src: url('../fonts/tinos-r.ttf');
 }
 
 @font-face {
     font-family: 'tinos-bold';
-    src: url('../fonts/tinos-bold.ttf');
+    src: url('../fonts/tinos-b.ttf');
 }
 
 
@@ -215,6 +215,7 @@ body {
     .brand-container {
         column-count: 2;
     }
+    
 }
 
 @media (max-width: 576px) {
