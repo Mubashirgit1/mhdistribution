@@ -95,14 +95,35 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 
 ### Testing User Stories
 
-`First Time Visitors`
+Testing was ongoing throughout the entire build. I utilised Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
 
-| Goals | How are they achieved? | Image |
-| :--- | :--- | :--- |
-| As a first time user, I want to be able to easily navigate the site | We have made every effort to make navigating the site easy for users, regardless of their language. We have achieved this by using icons to represent links. Links for navigation are included in the navbar.  | ![Navbar](documentation/navbar-desktop.png) |
-| As a first time user, I want to be able to sign up to the site and create a profile | Users can create their own profile for the site by using the sign up page. Links to the sign up page are included on the navbar, and there is also a button to redirect users to the sign up page on the 404 page if they are not logged into an account on the site. | ![sign up link](documentation/testing/signup-user.png) |
-| As a first time user, I want to receive feedback that my profile has successfully been created | :--- | :--- |
+The following issues were raised during my mid project meeting with my mentor:
 
+-   **Meta Tags Are Missing**: Essential **meta tags** (such as title, description, and keywords) should be included in the `<head>` section for SEO and better website visibility.
+    
+-   **Images Alternative Text Needs Improvement**: The **alt text** for images should be more descriptive and meaningful to provide better accessibility and SEO benefits. It should clearly describe the image content for screen readers and search engines.
+    
+-   **Convert All Images to WebP Format**: Using **WebP** instead of traditional formats (JPEG/PNG) helps **reduce file sizes** while maintaining high quality, improving page load speed and performance.
+    
+-   **Toggle Button Not Clear for Users**: The **navbar toggle button** should be more **visible and user-friendly**, possibly by adjusting its size, contrast, or adding an icon label to indicate its function.
+    
+-   **Code Formatting**: The code should be properly **formatted, indented, and structured** for readability and maintainability. Well-organized code makes debugging and future updates easier.
+    
+-   **Remove Unused Links**: Any **broken, unused, or irrelevant links** should be removed to keep the website clean, functional, and user-friendly. This avoids confusion and improves navigation.  
+
+The following issues were raised during my mid project meeting with my mentor:
+
+-   **Meta Tags Are Missing**: Essential **meta tags** (such as title, description, and keywords) should be included in the `<head>` section for SEO and better website visibility.
+    
+-   **Images Alternative Text Needs Improvement**: The **alt text** for images should be more descriptive and meaningful to provide better accessibility and SEO benefits. It should clearly describe the image content for screen readers and search engines.
+    
+-   **Convert All Images to WebP Format**: Using **WebP** instead of traditional formats (JPEG/PNG) helps **reduce file sizes** while maintaining high quality, improving page load speed and performance.
+    
+-   **Toggle Button Not Clear for Users**: The **navbar toggle button** should be more **visible and user-friendly**, possibly by adjusting its size, contrast, or adding an icon label to indicate its function.
+    
+-   **Code Formatting**: The code should be properly **formatted, indented, and structured** for readability and maintainability. Well-organized code makes debugging and future updates easier.
+    
+-   **Remove Unused Links**: Any **broken, unused, or irrelevant links** should be removed to keep the website clean, functional, and user-friendly. This avoids confusion and improves navigation.  
 
 ### Full Testing
 
